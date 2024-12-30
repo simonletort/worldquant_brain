@@ -1,2 +1,2 @@
 # worldquant_brain
-Backtests using Worldquanr BRAIN
+Backtests using Worldquant BRAIN
