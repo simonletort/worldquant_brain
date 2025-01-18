@@ -2,10 +2,13 @@
 
 ## Worldquant BRAIN
 
-[BRAIN](https://platform.worldquantbrain.com/) is a backtesting framework from Millenium's Worldquant.
+[BRAIN](https://platform.worldquantbrain.com/) is a backtesting framework from Millenium's [Worldquant](https://www.worldquant.com/).
 
 This plateform uses "Fast expression" as a programming language.
+
 It's very efficient to backtest quant trading strategies.
+
+One of the most fascinating aspects of this platform is how easily backtests can be performed. It allows users to quickly evaluate different strategies on historical data, providing valuable insights into their robustness. This makes it simple to identify which strategies have the potential to succeed in real-world market conditions, offering a powerful environment for refining and validating trading ideas before implementation.
 
 I'm sharing here some of the ones I've designed.
 
@@ -19,8 +22,6 @@ This strategy is designed to detect mean reversion opportunities by comparing th
 
 
 ### Results
-One of the most fascinating aspects of this platform is how easily backtests can be performed. It allows users to quickly evaluate different strategies on historical data, providing valuable insights into their robustness. This makes it simple to identify which strategies have the potential to succeed in real-world market conditions, offering a powerful environment for refining and validating trading ideas before implementation.
-
 
 <img width="581" alt="image" src="https://github.com/user-attachments/assets/12fad222-5e12-49b6-a782-8bfe3fe7b4fb" />
 
